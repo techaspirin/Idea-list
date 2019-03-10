@@ -1,7 +1,7 @@
 # Alexa speaking as doraemon of telugu voice
 
 ### Introduction:-
-	Alexa speaking as doremon of telugu voice is a project where we make an skill for alexa to train it to speak as doremon. It just repeats all the words spoken by the user in the doremon voice back to the user. 
+Alexa speaking as doremon of telugu voice is a project where we make an skill for alexa to train it to speak as doremon. It just repeats all the words spoken by the user in the doremon voice back to the user. 
 
 ### Requirements:- 
 	User should have alexa voice assistant installed in their device 
